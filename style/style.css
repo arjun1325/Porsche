@@ -1,0 +1,58 @@
+.poppins-medium {
+    font-family: "Poppins", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+  }
+  body{
+    font-family:"Poppins", sans-serif, ;
+  }
+
+.menu{
+    font-size:15px;
+}
+
+.porsche-carousel{
+font-weight:bold;
+font-size: 75px;
+margin: 0px;
+}
+
+.header-carousel{
+
+}
+
+   
+.header-carousel:hover{
+    color: rgb(175, 13, 13);
+}
+
+
+.carousal-p{
+font-weight: 500;
+font-size: x-large;
+}
+carousal-p:hover{
+    color: rgb(149, 29, 29);
+}
+
+.carousel-img{
+  height: 100vh;
+  background-size: cover;
+  background-position:center;
+}
+
+.bg-img-1{
+  background-image: url("https://files.porsche.com/filestore/image/middle-east/none/homepage-banner-india/normal/c2e54b1f-9285-11e9-80c4-005056bbdc38/porsche-normal.jpg");
+}
+
+.bg-img-2{
+  background-image: url("https://files.porsche.com/filestore/image/multimedia/none/rd-2018-homepage-banner-ww-992carrera-kw48/normal/7981cd01-f250-11e8-bec8-0019999cd470/porsche-normal.jpg");
+}
+
+.bg-img-3{
+  background-image: url("https://files.porsche.com/filestore/image/multimedia/none/rd-2019-homepage-banner-ww-992c2cab-kw31/normal/32d9306a-aec0-11e9-80c4-005056bbdc38/porsche-normal.jpg");
+}
+.bg-img-4{
+  background-image: url("https://files.porsche.com/filestore/image/multimedia/none/RD-2024-Homepage-Banner-WW-CayenneCoupeGTS-KW17/normal/637bfd48-fd88-11ee-8126-005056bbdc38/porsche-normal.jpg");
+
+}
