@@ -316,7 +316,7 @@ carousal-p:hover {
 position: relative;
 }
 .compare{
-  font-weight:bolder;
+  font-weight:600;
   font-size: 20px;
   color: white;
   position: absolute;
@@ -332,7 +332,7 @@ position: relative;
   position: relative;
 }
 .contact{
-  font-weight:bolder;
+  font-weight:600;
   font-size: 20px;
   color: white;
   position: absolute;
@@ -347,7 +347,7 @@ position: relative;
   position: relative;
 }
 .dealer{
-  font-weight:bolder;
+  font-weight:600;
   font-size: 20px;
   color: white;
   position: absolute;
@@ -362,7 +362,7 @@ position: relative;
   position: relative;
 }
 .life{
-  font-weight:bolder;
+  font-weight:600;
   font-size: 20px;
   color: white;
   position: absolute;
