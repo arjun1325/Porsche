@@ -1,174 +1,195 @@
 .poppins-medium {
-    font-family: "Poppins", sans-serif;
-    font-weight: 500;
-    font-style: normal;
-  }
-  body{
-    font-family:"Poppins", sans-serif, ;
-  }
-
-.menu{
-    font-size:15px;
+  font-family: "Poppins", sans-serif;
+  font-weight: 500;
+  font-style: normal;
 }
 
-.porsche-carousel{
-font-weight:bold;
-font-size: 75px;
-margin: 0px;
+body {
+  font-family: "Poppins", sans-serif;
 }
 
-.header-carousel{
+.menu {
+  font-size: 15px;
+}
+
+.porsche-carousel {
+  font-weight: bold;
+  font-size: 75px;
+  margin: 0px;
+}
+
+.header-carousel {
   transition: 0.3s;
-  
-}
 
-   
-.header-carousel:hover{
-    color: rgb(175, 13, 13);
-    opacity: 2;
 }
 
 
-.carousal-p{
-font-weight: 500;
-font-size: x-large;
-}
-carousal-p:hover{
-    color: rgb(149, 29, 29);
+.header-carousel:hover {
+  color: rgb(175, 13, 13);
+  opacity: 2;
 }
 
-.carousel-img{
-  height:100vh;
-  background-size:cover;
-  background-position:center;
-  
+
+.carousal-p {
+  font-weight: 500;
+  font-size: x-large;
 }
 
-.bg-img-1{
+carousal-p:hover {
+  color: rgb(149, 29, 29);
+}
+
+.carousel-img {
+  height: 100vh;
+  background-size: cover;
+  background-position: center;
+
+}
+
+.bg-img-1 {
   background-image: url("https://files.porsche.com/filestore/image/middle-east/none/homepage-banner-india/normal/c2e54b1f-9285-11e9-80c4-005056bbdc38/porsche-normal.jpg");
-  
+
 }
 
-.bg-img-2{
+.bg-img-2 {
   background-image: url("https://files.porsche.com/filestore/image/multimedia/none/rd-2018-homepage-banner-ww-992carrera-kw48/normal/7981cd01-f250-11e8-bec8-0019999cd470/porsche-normal.jpg");
 }
 
-.bg-img-3{
+.bg-img-3 {
   background-image: url("https://files.porsche.com/filestore/image/multimedia/none/rd-2019-homepage-banner-ww-992c2cab-kw31/normal/32d9306a-aec0-11e9-80c4-005056bbdc38/porsche-normal.jpg");
 }
-.bg-img-4{
+
+.bg-img-4 {
   background-image: url("https://files.porsche.com/filestore/image/multimedia/none/RD-2024-Homepage-Banner-WW-CayenneCoupeGTS-KW17/normal/637bfd48-fd88-11ee-8126-005056bbdc38/porsche-normal.jpg");
 
 }
-.model{
+
+.model {
   padding-top: 10px;
   padding-bottom: 10px;
   padding-left: 30px;
-  font-weight: bold;
+  font-weight: 600;
+  font-size: 25px;
+  font-family: "Poppins", sans-serif;
 
 }
 
-.model-img-1{
- width: 100%;
- height:100%;
+.model-img-1 {
+  width: 100%;
+  height: 350px;
 
 }
-.model-img-2{
- width: 100%;
- height:100%;
-}
-.model-img-3{
- width: 100%;
- height:100%;
-}
-.model-img-4{
- width: 100%;
- height:100%;
-}
-.model-img-5{
- width: 100%;
- height:100%;
-}
-.model-img-6{
- width: 100%;
- height:100%;
+
+.model-img-2 {
+  width: 100%;
+  height: 350px;
 }
 
-.porscheone{
+.model-img-3 {
+  width: 100%;
+  height: 350px;
+}
+
+.model-img-4 {
+  width: 100%;
+  height: 350px;
+}
+
+.model-img-5 {
+  width: 100%;
+  height: 350px;
+}
+
+.model-img-6 {
+  width: 100%;
+  height: 350px;
+}
+
+.porscheone {
   color: white;
   font-weight: 600;
   font-style: italic;
-  font-size:25px;
+  font-size: 25px;
   position: absolute;
   left: 20px;
   top: 12px;
 }
 
-.porsche-tag{
-  position:relative;
-}
-
-.nine-eleven{
-  color: white;
-  font-weight: 600;
-  font-style: italic;
-  font-size:25px;
-  position: absolute;
-  left: 20px;
-  top: 12px;
-}
-.nine-eleven-tag{
-  position:relative;
-}
-.taycan{
-  color: white;
-  font-weight: 600;
-  font-style: italic;
-  font-size:25px;
-  position: absolute;
-  left: 20px;
-  top: 12px;
-}
-.taycan-tag{
-  position:relative;
-}
-.panamera{
-  color: white;
-  font-weight: 600;
-  font-style: italic;
-  font-size:25px;
-  position: absolute;
-  left: 20px;
-  top: 12px;
-}
-.panamera-tag{
+.porsche-tag {
   position: relative;
 }
-.macan{
+
+.nine-eleven {
   color: white;
   font-weight: 600;
   font-style: italic;
-  font-size:25px;
+  font-size: 25px;
   position: absolute;
   left: 20px;
   top: 12px;
 }
-.macan-tag{
+
+.nine-eleven-tag {
   position: relative;
 }
-.cayenne{
+
+.taycan {
   color: white;
   font-weight: 600;
   font-style: italic;
-  font-size:25px;
+  font-size: 25px;
   position: absolute;
   left: 20px;
   top: 12px;
 }
-.cayenne-tag{
+
+.taycan-tag {
   position: relative;
 }
-.button-build-your-own{
+
+.panamera {
+  color: white;
+  font-weight: 600;
+  font-style: italic;
+  font-size: 25px;
+  position: absolute;
+  left: 20px;
+  top: 12px;
+}
+
+.panamera-tag {
+  position: relative;
+}
+
+.macan {
+  color: white;
+  font-weight: 600;
+  font-style: italic;
+  font-size: 25px;
+  position: absolute;
+  left: 20px;
+  top: 12px;
+}
+
+.macan-tag {
+  position: relative;
+}
+
+.cayenne {
+  color: white;
+  font-weight: 600;
+  font-style: italic;
+  font-size: 25px;
+  position: absolute;
+  left: 20px;
+  top: 12px;
+}
+
+.cayenne-tag {
+  position: relative;
+}
+
+.button-build-your-own {
   justify-content: center;
   align-items: center;
   text-decoration: none;
@@ -177,18 +198,20 @@ carousal-p:hover{
   display: inline-flex;
   color: inherit;
   background-color: white;
-  font-weight:250;
-  transition:background-color 0.3s, color 0.3s;
+  font-weight: 250;
+  transition: background-color 0.3s, color 0.3s;
 }
-  .button-build-your-own:hover{
-    background-color: rgb(188, 20, 20);
-    color: white;
-  }
-  .button-build-your-own .icon{
-    margin-right: 5px;
-  }
 
-  .button-all-models{
+.button-build-your-own:hover {
+  background-color: rgb(188, 20, 20);
+  color: white;
+}
+
+.button-build-your-own .icon {
+  margin-right: 5px;
+}
+
+.button-all-models {
   justify-content: center;
   align-items: center;
   text-decoration: none;
@@ -198,57 +221,155 @@ carousal-p:hover{
   color: white;
   font-weight: 400;
   background-color: transparent;
-  }
-  .button-all-models:hover{
-    border-color: red;
-    color: rgb(182, 13, 13);
-    transition: border-color 0.3s, color 0.5s ;
-  }
-  .build-porsche{
-    position: relative;
-  }
-  .button-container-porsche{
-    position: absolute;
-    bottom: 20px;
-    left: 25px;
-  }
-  .build-911{
-    position: relative;
-  }
-  .button-container-911{
-    position: absolute;
-    bottom: 20px;
-    left: 25px;
-  }
-.build-taycan{
+}
+
+.button-all-models:hover {
+  border-color: red;
+  color: rgb(182, 13, 13);
+  transition: border-color 0.3s, color 0.5s;
+}
+
+.build-porsche {
   position: relative;
 }
-.button-container-taycan{
+
+.button-container-porsche {
   position: absolute;
   bottom: 20px;
   left: 25px;
 }
-.build-panamera{
+
+.build-911 {
+  position: relative;
+}
+
+.button-container-911 {
+  position: absolute;
+  bottom: 20px;
+  left: 25px;
+}
+
+.build-taycan {
+  position: relative;
+}
+
+.button-container-taycan {
+  position: absolute;
+  bottom: 20px;
+  left: 25px;
+}
+
+.build-panamera {
+  position: relative;
+}
+
+.button-container-panamera {
+  position: absolute;
+  bottom: 20px;
+  left: 25px;
+}
+
+.build-macan {
+  position: relative;
+}
+
+.button-container-macan {
+  position: absolute;
+  bottom: 20px;
+  left: 25px;
+}
+
+.build-cayenne {
+  position: relative;
+}
+
+.button-container-cayenne {
+  position: absolute;
+  bottom: 20px;
+  left: 25px;
+}
+
+.shopping-tools {
+  margin: 15px;
+  font-size: 40px;
+  font-weight: 600;
+  font-family: "Poppins", sans-serif;
+}
+
+.shop-img {
+  height: 250px;
+  width: 100%;
+}
+
+.img-shop-1 {
+  width: 100%;
+  display: block;
+  height: 243px !important;
+  object-fit: cover;
+}
+
+.img-shop {
+  height: 250px;
+  object-fit: cover;
+}
+.comparediv{
 position: relative;
 }
-.button-container-panamera{
+.compare{
+  font-weight:bolder;
+  font-size: 20px;
+  color: white;
   position: absolute;
-  bottom: 20px;
-  left: 25px;
+  bottom: 10px;
+  left: 15px;
+  transition: 0.2s;
 }
-.build-macan{
+.comparediv:hover .compare{
+  color: red;
+}
+
+.contactdiv{
   position: relative;
 }
-.button-container-macan{
+.contact{
+  font-weight:bolder;
+  font-size: 20px;
+  color: white;
   position: absolute;
-  bottom: 20px;
-  left: 25px;
+  bottom: 10px;
+  left: 15px;
+  transition: 0.2s;
 }
-.build-cayenne{
+.contactdiv:hover .contact{
+  color: red;
+}
+.dealerdiv{
   position: relative;
 }
-.button-container-cayenne{
+.dealer{
+  font-weight:bolder;
+  font-size: 20px;
+  color: white;
   position: absolute;
-  bottom: 20px;
-  left: 25px;
+  bottom: 10px;
+  left: 15px;
+  transition: 0.2s;
+}
+.dealerdiv:hover .dealer{
+  color: red;
+}
+.lifediv{
+  position: relative;
+}
+.life{
+  font-weight:bolder;
+  font-size: 20px;
+  color: white;
+  position: absolute;
+  bottom: 10px;
+  left: 15px;
+  transition: 0.2s;
+}
+.lifediv:hover .life{
+  color: red;
 }
