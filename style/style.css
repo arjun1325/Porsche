@@ -296,10 +296,7 @@ carousal-p:hover {
   font-family: "Poppins", sans-serif;
 }
 
-.shop-img {
-  height: 250px;
-  width: 100%;
-}
+
 
 .img-shop-1 {
   width: 100%;
@@ -371,5 +368,70 @@ position: relative;
   transition: 0.2s;
 }
 .lifediv:hover .life{
+  color: red;
+}
+.discover{
+  margin: 15px;
+  font-size: 40px;
+  font-weight: 600;
+  font-family: "Poppins", sans-serif;
+}
+.discoverdiv{
+  height:300px;
+  width: 300px;
+}
+.discover-img{
+  display: block;
+  height:100%;
+  width: 100%;
+  object-fit: cover;
+}
+
+.performancediv{
+  position: relative;
+}
+.performance{
+  position: absolute;
+  color: black;
+  bottom: 18px;
+  transition: 0.3s;
+}
+.performancediv:hover .performance{
+  color: red;
+}
+.finderdiv{
+  position: relative;
+}
+.finder{
+  position: absolute;
+  color: black;
+  bottom: 18px;
+  transition: 0.3s;
+}
+.finderdiv:hover .finder{
+  color: red;
+}
+.lifestylediv{
+  position: relative;
+}
+.lifestyle{
+  position: absolute;
+  color: black;
+  bottom: 18px;
+  transition: 0.3s;
+}
+.lifestylediv:hover .lifestyle{
+  color: red;
+}
+.manufakturdiv{
+  position: relative;
+}
+.manufaktur{
+  position: absolute;
+  color: black;
+  bottom: 18px;
+  transition: 0.3s;
+}
+.manufakturdiv:hover .manufaktur{
   color: red;
 }
