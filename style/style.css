@@ -435,3 +435,19 @@ position: relative;
 .manufakturdiv:hover .manufaktur{
   color: red;
 }
+.footer-div{
+  display: block;
+  margin: 20px;
+  border-top: 1px solid black;
+ 
+}
+.build{
+  list-style: none;
+  padding-right: 50px;
+}
+.build-text{
+padding-right: 40px;
+}
+.build-text:hover{
+  color: red  ;
+}
